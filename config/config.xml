@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>MyApp</Name>
+    <Version>1.0.0</Version>
+    <Title>MyApp Installer</Title>
+    <Publisher>Waleon</Publisher>
+    <StartMenuDir>IFW Examples</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/MyApp</TargetDir>
+    <RemoteRepositories>
+            <Repository>
+                <Url>https://github.com/tompsonXu/GitVenture6</Url>
+                <Enabled>1</Enabled>
+                <Username>m17855827529@163.com</Username>
+                <Password>future8695!</Password>
+                <DisplayName>Example repository</DisplayName>
+            </Repository>
+        </RemoteRepositories>
+
+</Installer>
