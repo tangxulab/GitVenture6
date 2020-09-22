@@ -6,12 +6,12 @@
   <Name>package</Name>
   <DisplayName>MyApp</DisplayName>
   <Description>The first ifw installer.</Description>
-  <Version>2.0.0-2</Version>
+  <Version>3.0.0-3</Version>
   <ReleaseDate>2019-10-12</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="17237408" UncompressedSize="69548891"/>
+  <UpdateFile CompressedSize="17240686" OS="Any" UncompressedSize="69551451"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>6a6733e19fd3a9f08eac47661016ba7a0911798c</SHA1>
+  <SHA1>1872a772ae979785112a059329808cb904819309</SHA1>
  </PackageUpdate>
 </Updates>

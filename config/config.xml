@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Installer>
     <Name>MyApp</Name>
-    <Version>1.0.0</Version>
+    <Version>3.0.0</Version>
     <Title>MyApp Installer</Title>
     <Publisher>Waleon</Publisher>
     <StartMenuDir>IFW Examples</StartMenuDir>
