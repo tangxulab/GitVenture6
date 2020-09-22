@@ -10,8 +10,8 @@
   <ReleaseDate>2019-10-12</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" UncompressedSize="69552475" CompressedSize="17237317"/>
+  <UpdateFile OS="Any" CompressedSize="17237317" UncompressedSize="69552475"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>9935dd48dd2416a9ccefc18f1eb4ec0e42d6f5b1</SHA1>
+  <SHA1>3d2c356c23dd923357349075ffc541e3cf756385</SHA1>
  </PackageUpdate>
 </Updates>
