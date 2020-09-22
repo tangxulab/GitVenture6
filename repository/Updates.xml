@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>package</Name>
+  <DisplayName>MyApp</DisplayName>
+  <Description>The first ifw installer.</Description>
+  <Version>9.0.0</Version>
+  <ReleaseDate>2019-10-12</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" CompressedSize="17238903" UncompressedSize="69552475"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>54252f18c5ee14a04e58709a1c2f02c49ff0599b</SHA1>
+ </PackageUpdate>
+</Updates>
