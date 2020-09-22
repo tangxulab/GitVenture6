@@ -2,7 +2,7 @@
 <Package>
     <DisplayName>MyApp</DisplayName>
     <Description>The first ifw installer.</Description>
-    <Version>3.0.0-3</Version>
+    <Version>6.0.0-6</Version>
     <ReleaseDate>2019-10-12</ReleaseDate>
     <Default>true</Default>
     <Script>installscript.qs</Script>
